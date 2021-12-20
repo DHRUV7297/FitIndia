@@ -20,4 +20,4 @@ https://drive.google.com/file/d/1hW04EAhE-KX22kfOCHv4GKkwypN2evcR/view
 
 ![](Screenshots/ss35.jpeg)
 
-![](Screenshots/ss26.jpeg)
+
